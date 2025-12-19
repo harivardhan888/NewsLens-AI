@@ -1,0 +1,33 @@
+# Python caches
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment & Secrets
+venv/
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
+
+# Project specific caches/data
+summarized_news.json
+Summarized_news/
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Temp files
+*.tmp
+*.swp

@@ -1,0 +1,13 @@
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+youtube-transcript-api>=0.6.2
+feedparser
+groq
+langchain
+langchain-groq
+langsmith
+python-dotenv
+mcp
+fastmcp
+fastapi
+uvicorn
